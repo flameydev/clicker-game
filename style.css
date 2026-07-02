@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    background-color: #000000;
+    color: whitesmoke; /* smoking is injurious to health ahh */
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+#click{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
