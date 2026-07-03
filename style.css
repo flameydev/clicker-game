@@ -14,3 +14,8 @@ body{
     width: 200px;
     border-radius: 100px;
 }
+.bottom{
+    color: gray;
+    display: flex;
+    justify-content: center;
+}
