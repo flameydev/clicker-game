@@ -28,6 +28,9 @@ function upd(){
     else if (count > 200){
         grade.innerHTML = `your grade: <b>S</b>`;
     }
+    else if (count > 6767676767676767676767){
+        grade.innerHTML = `your grade: <b>S+<b>`;
+    }
 };
 
 button.onclick = function(){ // clicky clicky
